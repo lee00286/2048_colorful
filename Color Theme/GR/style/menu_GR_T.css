@@ -1,0 +1,142 @@
+@import url(fonts/clear-sans.css);
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #efffdb;
+  color: #776e65;
+  font-family: "DXLBaStd", "SeoulNamsan CB", Arial, sans-serif;
+  font-size: 18px;
+}
+
+body {
+  margin: -300px 0;
+}
+
+.heading:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+h1.title {
+  font-size: 80px;
+  font-weight: bold;
+  margin: 0;
+  display: block;
+  float: left;
+  color: #add480;
+  text-shadow: 1.5px 1.5px #87b143;
+}
+
+.ColorTheme {
+  margin-top: -30px;
+  position: relative;
+  color-fill: #fff;
+  width: 300px;
+  height: 300px;
+}
+
+.container {
+  width: 500px;
+  margin-left: 400px;
+}
+
+.menu-container {
+  width: 500px;
+  margin-left: 450px;
+}
+
+.menu-container1 {
+  position: absolute;
+  text-align: center;
+  background: #add480;
+  width: 350px;
+  height: 60px;
+}
+
+.menu-container2 {
+  margin-top: 5px;
+  position: absolute;
+  text-align: center;
+  background: #add480;
+  width: 350px;
+  height: 60px;
+}
+
+.menu-container3 {
+  margin-top: 85px;
+  position: absolute;
+  text-align: center;
+  background: #add480;
+  width: 350px;
+  height: 60px;
+}
+
+.color-container1 {
+  margin-top: 75px;
+  margin-right: 14px;
+  display: inline-block;
+  position: relative;
+  background: #d6ecab;
+  width: 65px;
+  height: 65px;
+  border-color: #fff;
+  border-width: 6px;
+  border-style: solid;
+  border-radius: 4px;
+}
+
+.color-container2 {
+  margin-right:14px;
+  display: inline-block;
+  position: relative;
+  background: #c1e28c;
+  width: 65px;
+  height: 65px;
+  border-color: #fff;
+  border-width: 6px;
+  border-style: solid;
+  border-radius: 4px;
+}
+
+.color-container3 {
+  margin-right: 14px;
+  display: inline-block;
+  position: relative;
+  background: #acd668;
+  width: 65px;
+  height: 65px;
+  border-color: #fff;
+  border-width: 6px;
+  border-style: solid;
+  border-radius: 4px;
+}
+
+.color-container4 {
+  display: inline-block;
+  position: relative;
+  background: #96bf55;
+  width: 65px;
+  height: 65px;
+  border-color: #fff;
+  border-width: 6px;
+  border-style: solid;
+  border-radius: 4px;
+}
+
+.exit-container {
+  margin-top: 350px;
+  margin-left: -200px;
+  position: absolute;
+  text-align: center;
+  border-radius: 100%;
+  border-width: 0px;
+  background: #add480;
+  width: 70px;
+  height: 70px;
+}
+
+.exit-container:hover {
+  transition: .5s ease;
+  background-color: #96bf55;
+}
