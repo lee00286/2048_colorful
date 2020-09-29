@@ -1,4 +1,10 @@
 # 2048_colorful
 
-## 2048 Original Version
+## Source
 Original version of 2048 is [here](https://play2048.co/). Gained original code from [Codepen](https://codepen.io/camsong/pen/wcKrg).
+
+## Features
+* Three color versions
+* Version with roots of 3
+* Timer (on-and-off button in the menu)
+* Font has editted
