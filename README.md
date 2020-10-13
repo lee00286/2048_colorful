@@ -8,8 +8,11 @@ Original version of 2048 is [here](https://play2048.co/). Gained original code f
 * Version with roots of 3
 * Timer (on-and-off button in the menu)
 * Font has edited
+* Restart the game
+* Randomness of tiles
 
 ## Need to Work
 * index.html page
 * Links between html files
 * Flexibility on devices
+* Menu page web-font
