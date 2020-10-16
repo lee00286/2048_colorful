@@ -17,4 +17,6 @@ Original version of 2048 is [here](https://play2048.co/). Gained original code f
 * Flexibility on devices
 * Menu page web-font
 
+## Example
+
 ## Reference
